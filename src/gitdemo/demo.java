@@ -13,7 +13,7 @@ public class demo {
 		int result=a+b;
 		System.out.println(" enter number");
 		Scanner sc =new Scanner(System.in);
-		
+		System.out.println("result is");
 //	a=sc.nextInt();
 //	b=sc.nextInt();
 	System.out.println(result);
